@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+Local Sockets/TCP/local_server
+Local Sockets/TCP/local_client
+Network Sockets/TCP/client
+Network Sockets/TCP/server
+Network Sockets/UDP/client
+Network Sockets/UDP/server
