@@ -53,6 +53,8 @@ dkms.conf
 
 Local Sockets/TCP/local_server
 Local Sockets/TCP/local_client
+Local Sockets/UDP/local_server
+Local Sockets/UDP/local_client
 Network Sockets/TCP/client
 Network Sockets/TCP/server
 Network Sockets/UDP/client
