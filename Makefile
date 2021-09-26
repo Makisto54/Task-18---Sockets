@@ -8,6 +8,10 @@ TASK_2 := Network\ Sockets/
 
 all: $(TASK_1) $(TASK_2)
 
+debug:
+	cd $(TASK_1) && make debug
+	cd $(TASK_2) && make debug
+
 $(TASK_1):
 	cd $(TASK_1) && make
 
